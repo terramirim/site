@@ -1,6 +1,6 @@
 # Site da Fundação Terra Mirim
 
-Site estático de [www.terramirim.org.br](https://www.terramirim.org.br), publicado pelo GitHub Pages.
+Site estático de [terramirim.org.br](https://terramirim.org.br), publicado pelo GitHub Pages.
 
 Recria as páginas institucionais do site antigo em WordPress, que saiu do ar em 2026. Os textos e as imagens vêm de cópias públicas do site antigo (Common Crawl e Internet Archive). É uma versão provisória, até o novo site ficar pronto.
 
