@@ -108,3 +108,9 @@ footer .legal { border-top: 1px solid rgba(255, 255, 255, .25); margin-top: 32px
   section { padding: 44px 0; }
   .galeria { padding: 0; }
 }
+
+/* Missão */
+.missao { background: var(--creme); text-align: center; }
+.missao .texto { margin: 0 auto; }
+.missao h2 { color: var(--roxo); }
+.missao p { font-size: 1.12rem; }
